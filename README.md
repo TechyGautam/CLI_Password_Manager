@@ -1,16 +1,68 @@
-# 🐍 Python Master Mini Projects
+# 🔐 Simple Password Manager (Python)
 
-This repository contains 10 Python mini projects designed to
-strengthen Python fundamentals, OOP concepts, file handling,
-and problem-solving skills.
+A beginner-friendly command-line Password Manager built using Python.  
+This project allows users to add, search, and display stored passwords using a JSON file for persistent storage.
 
-## 📚 Topics Covered
-- 🧠 Python basics to advanced
-- 🧩 Object-Oriented Programming (OOP)
-- 📂 File handling (TXT, CSV)
-- 💻 Command-line tools
-- ✨ Clean code & project structuring
+---
 
-## 🎯 Purpose
-This repository is part of my journey to build a strong Python
-foundation before moving into Machine Learning.
+## 🚀 Features
+
+- ➕ Add new passwords
+- 🔍 Search password by object name
+- 📂 Show all stored passwords
+- 💾 Data saved locally using JSON
+- 🔁 Persistent storage using file handling
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- JSON
+- File Handling
+- Functions & Loops
+
+---
+
+## 📁 Project Structure
+
+password-manager/
+│
+├── pass.py
+└── README.md
+
+---
+
+## ▶️ How to Run
+
+1. Make sure Python is installed.
+2. Clone the repository.
+3. Navigate to the folder:
+   cd password_tracker
+
+4. Run the program:
+   python pass.py
+
+---
+
+## ⚠️ Note
+
+Do not store real passwords in public repositories.  
+Always use dummy data for testing.
+
+---
+
+## 🎯 Future Improvements
+
+- Add password encryption
+- Hide password while typing
+- Convert into GUI application
+- Add user authentication
+
+---
+
+## 👨‍💻 Author
+
+Tanishk Gautam  
+B.Tech CSE (AI/ML) Student  
+Aspiring AI/ML Developer
