@@ -1,4 +1,4 @@
-# 🔐 Simple Password Manager (Python)
+# 🔐 Simple Password Manager (CLI based)
 
 A beginner-friendly command-line Password Manager built using Python.  
 This project allows users to add, search, and display stored passwords using a JSON file for persistent storage.
